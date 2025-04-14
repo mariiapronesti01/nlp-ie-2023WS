@@ -1,0 +1,1 @@
+# epoch	train_loss	tacred_dev_loss	tacred_dev_f1	tacrev_dev_loss	tacrev_dev_f1
